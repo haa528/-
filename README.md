@@ -12,4 +12,4 @@ hammer hack chanell
 
 chmod 99 hammer.ch
 
-hack hammer.ch -s irobatn_apps.com -p 100 -t 230# -
+hack hammer.ch -s irobatn_apps.com -p 100 -t 230 # -
